@@ -1,3 +1,25 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+
+.first-img {
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+}
+
+.text-container {
+    width: 80%;
+}
+
+.photo-container {
+    width: 20%;
+}
+
+.grey-heading {
+    color: grey;
+}
+
+.child-container {
+    margin: 70px;
 }
