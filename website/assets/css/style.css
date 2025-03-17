@@ -1,13 +1,16 @@
 
 body {
     background: white;
-    align-items: center;
     height: 100vh;
     font-size: 12px;
     margin-left: -12px;
     margin-right: -12px; 
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.portfolio-threeblocks {
+    width: 400px;
+  }
 
 .contact-container {
     width: 500px; 
@@ -101,3 +104,24 @@ a.nav-link {
    margin-top: 1.2em;
 }
 
+first-img {
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+}
+
+.text-container {
+    width: 80%;
+}
+
+.photo-container {
+    width: 20%;
+}
+
+.grey-heading {
+    color: grey;
+}
+
+.child-container {
+    margin: 70px;
+}
