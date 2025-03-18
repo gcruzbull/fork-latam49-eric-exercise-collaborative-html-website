@@ -15,10 +15,6 @@ body {
   
   }
 
-/* .portfolio-threeblocks {
-    width: 400px;
-  } */
-
 
 .form-wrapper {
     background-color: #f8f9fa;
@@ -39,12 +35,12 @@ body {
     margin-top: 20%;
 }
 .navbar-brand {
-    font-size: 1.1em !important;
+   
     font-weight: 600;
 }
 
 a.nav-link {
-    font-size: 0.8em !important;
+   
     font-weight: 600;
 }
 
