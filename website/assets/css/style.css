@@ -8,21 +8,18 @@ body {
 }
 
 .portfolio-block-style {
-    height: 250px;
-    width: 400px;
+    height: 14rem;
+    width: 32%;
     background-color:#cccccc;
-    color: #a8a8a8;
     font-size:37px;
+  
   }
 
-.portfolio-threeblocks {
+/* .portfolio-threeblocks {
     width: 400px;
-  }
+  } */
 
-.contact-container {
-    max-width: 91%;
-    margin: auto;
-} 
+
 .form-wrapper {
     background-color: #f8f9fa;
     padding: 1%;
@@ -72,9 +69,8 @@ a.nav-link {
 }
 
 .first-img {
-    border-radius: 100px;
-    width: 200px;
-    height: 200px;
+    border-radius: 50%;
+    width: 20rem;
 }
 
 .text-container {
