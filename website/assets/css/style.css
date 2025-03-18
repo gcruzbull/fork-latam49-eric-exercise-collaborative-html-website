@@ -20,68 +20,27 @@ body {
   }
 
 .contact-container {
-    width: 500px; 
-    font-size: 12px;
+    max-width: 91%;
+    margin: auto;
 } 
-
-.contact-box {
-    background-color: #f5f5f5; 
-    padding: 15px; 
-    border-radius: 5px;
+.form-wrapper {
+    background-color: #f8f9fa;
+    padding: 1%;
+    border-radius: 1%;
 }
-
-.form-group {
-    display: flex;
-    align-items: start;
-    margin-bottom: 10px;
-}
-
-.form-label {
-    width: 100px; 
-    font-weight: bold;
-    text-align: left;
-    margin-right: 8px;
-    font-size: 11px; 
-}
-
 .form-control {
-    flex: 1;
-    height: 28px; 
-    font-size: 11px; 
-    padding: 5px;
+    border-radius: 0;
 }
-
-textarea.form-control {
-    height: 70px; 
+.text-end {
+    text-align: right;
 }
-
-.form-footer {
-    display: flex;
-    justify-content: flex-end;
-    margin-top: 6px;
+.text-start {
+    text-align: left;
 }
-
-.btn-primary {
-    font-size: 11px;
-    padding: 6px 15px; 
-}
-
-h2.fw-bold {
-    font-size: 18px; 
-}
-
-p {
-    font-size: 11px; 
-}
-
 .footer {
-    font-size: 10px;
-    color: grey;
-    margin-top: 10px;
-    text-align: left; 
-    width: 500px;
+    text-align: left;
+    margin-top: 20%;
 }
-    
 .navbar-brand {
     font-size: 1.1em !important;
     font-weight: 600;
